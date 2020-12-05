@@ -1,0 +1,20 @@
+.table {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+}
+.tabdata {
+  width: 80%;
+  height: 70%;
+}
+.tabrow {
+  border: 2px solid rgb(206, 49, 49);
+  color: orange;
+  font-size: 25px;
+}
+.tabrowin {
+  font-size: 20px;
+  color: white;
+  padding-top: 40px;
+}

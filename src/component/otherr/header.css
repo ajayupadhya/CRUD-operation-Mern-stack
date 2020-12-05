@@ -1,0 +1,48 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  align-items: center;
+  background-color: rgb(82, 71, 56);
+  z-index: 1;
+}
+.header h3 {
+  margin-left: 10%;
+  font-size: 1.8rem;
+  color: orange;
+}
+.headercontent {
+  display: flex;
+  justify-content: space-evenly;
+  width: 30%;
+  height: 100px;
+  align-items: center;
+  
+}
+.headercontent span {
+  font-size: larger;
+  color: orange;
+}
+.signin{
+ 
+  cursor: pointer;
+}
+
+.signup button{
+  border: 0px;
+  color: orange;
+  background-color: rgb(82, 71, 56) ;
+  font-size: larger;
+  cursor: pointer;
+  letter-spacing: 1px;
+  outline: none;
+}
+.signin button{
+  outline: none;
+  border: 0px;
+  color: orange;
+  background-color: rgb(82, 71, 56) ;
+  font-size: larger;
+  cursor: pointer;
+  letter-spacing: 1px;
+}
