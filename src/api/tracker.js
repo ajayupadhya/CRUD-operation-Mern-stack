@@ -2,5 +2,5 @@ import axios from 'axios';
 
 
 export default axios.create({
-    baseURL: 'http://192.168.43.153:3000'
+    baseURL: 'https://dry-cove-13336.herokuapp.com/'
 })
